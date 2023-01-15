@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Калькулятор стоимости сруба</string>
+    <string name="view_general_conditions">Основные условия</string>
+    <string name="view_advanced_conditions">Дополнительные условия</string>
+    <string name="input_meter_price">Стоимость кв.м. стены</string>
+    <string name="input_height">Высота стен</string>
+    <string name="input_axis_x">Ширина по оси X</string>
+    <string name="input_axis_y">Длина по оси Y</string>
+    <string name="input_number_walls_x">Доп. стены по оси X</string>
+    <string name="input_number_walls_y">Доп. стены по оси Y</string>
+    <string name="input_number_gable_x">Кол-во фронтонов по оси X</string>
+    <string name="input_number_gable_y">Кол-во фронтонов по оси Y</string>
+    <string name="view_calc">Посчитать</string>
+    <string name="view_total_price">Стоимость сруба:</string>
+</resources>
